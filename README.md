@@ -1,18 +1,18 @@
 # MyBike landing page
 
-🌐 Project Description
-A responsive website built based on a design from Figma.
-The project was implemented using HTML and SCSS with a focus
-on clean structure, modern layout, and design accuracy.
+🌐 Project Description <br>
+A responsive website built based on a design from Figma. <br>
+The project was implemented using HTML and SCSS with a focus <br>
+on clean structure, modern layout, and design accuracy. <br>
 
-🛠️ Technologies Used
-HTML5 – page structure
-SCSS (Sass) – CSS preprocessor for organized styling
-Flexbox / Grid – responsive layout
-Mobile-first – development approach
+🛠️ Technologies Used <br>
+HTML5 – page structure <br>
+SCSS (Sass) – CSS preprocessor for organized styling <br>
+Flexbox / Grid – responsive layout <br>
+Mobile-first – development approach <br>
 
-🔗 Live Preview
-👉 [View the website](https://KrystianWojtiuk.github.io/layout_miami/)
+🔗 Live Preview <br>
+👉 [View the website](https://KrystianWojtiuk.github.io/layout_miami/) <br>
 
-🎨 Figma Layout
-👉 [Open Figma design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=6103-67)
+🎨 Figma Layout <br>
+👉 [Open Figma design](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=6103-67) <br>
